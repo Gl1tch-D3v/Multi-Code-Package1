@@ -1,0 +1,7 @@
+#in python btw
+
+import random
+number = random.randint(2,21)
+
+for i in range(0,11):
+    print(number,"x",i,"=",number * i)
